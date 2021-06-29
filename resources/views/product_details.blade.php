@@ -135,7 +135,8 @@
             data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
             data-locale="auto">
             </script>
-</form></b></span></p><?php */?>
+</form></b></span></p><?php 
+*/?>
 
 <p><span>
 <form method="POST" action="{{url('/checkout')}}" class="card-form mt-3 mb-3">
